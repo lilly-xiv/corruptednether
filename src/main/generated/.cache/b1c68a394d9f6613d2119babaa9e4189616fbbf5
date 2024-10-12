@@ -1,4 +1,4 @@
-// 1.21	2024-10-12T21:31:39.2227822	CorruptedNether/Model Definitions
+// 1.21	2024-10-12T21:51:37.2003471	CorruptedNether/Model Definitions
 7af7a049e3cd6177811ff6208a99f779c3770b14 assets\corruptednether\models\block\fuchsite_wall_inventory.json
 7c8efa04ac6f62bb112eed837c7d494754abfdb8 assets\corruptednether\blockstates\polished_fuchsite_slab.json
 236d95f03e188ebc253388e66393cb25f410105f assets\corruptednether\blockstates\corrupted_torch.json
@@ -105,8 +105,8 @@ a5a1e6d788990fa9cd20afdc546e122eabbcf47e assets\corruptednether\blockstates\corr
 42c7eb5599c987f03d93bfc745a8525a58d18bc9 assets\corruptednether\models\block\fuchsite_wall_post.json
 ee2cb7b08076e618f1ac74dbb3fce3bbf90b2002 assets\corruptednether\models\item\corrupted_sign.json
 767ca1f0df37f24754b5f585ca185b1963224528 assets\corruptednether\models\block\polished_fuchsite_brick_wall_inventory.json
-1ff082606da608ce354edafddc070feea97525d0 assets\corruptednether\models\block\corrupted_fire_side0.json
 b361b0a06e20d4caa97973f14fe07c2bd5ad5b15 assets\corruptednether\models\block\stripped_corrupted_hyphae.json
+1ff082606da608ce354edafddc070feea97525d0 assets\corruptednether\models\block\corrupted_fire_side0.json
 ad12cccc0787fe34e970ec4182e14ef6ad7207cf assets\corruptednether\blockstates\corrupted_sign.json
 c91392853e408e76873f0c6b030dda382fd36bcd assets\corruptednether\models\item\curselight.json
 2caa2d330b3b0e05c310dd0416b83c2a8cd0f8a1 assets\corruptednether\models\block\corrupted_planks.json

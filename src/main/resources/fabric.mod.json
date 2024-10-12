@@ -12,7 +12,7 @@
 		"sources": "https://github.com/lord-ruby/corruptednether/"
 	},
 	"license": "CC0-1.0",
-	"icon": "assets/corruptednether/icon.png",
+	"icon": "logo.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
