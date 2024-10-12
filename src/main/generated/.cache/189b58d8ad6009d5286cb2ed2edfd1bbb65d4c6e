@@ -1,4 +1,4 @@
-// 1.21	2024-10-12T21:51:37.2143394	CorruptedNether/Tags for minecraft:item
+// 1.21	2024-10-12T22:08:38.2230429	CorruptedNether/Tags for minecraft:item
 63904b5041a5b19405d3e2c7de0225efdf634a04 data\minecraft\tags\item\trapdoors.json
 b09941e052fb2ad1c2a32ff8cb423cb25394d38b data\minecraft\tags\item\wooden_pressure_plates.json
 e7ade70b8238706f2e7a35ecd8e8caf10a3d587c data\minecraft\tags\item\slabs.json
@@ -6,8 +6,8 @@ e7ade70b8238706f2e7a35ecd8e8caf10a3d587c data\minecraft\tags\item\slabs.json
 24213f2f0bd880d1cb32e72110ba21a20dfbd9a8 data\minecraft\tags\item\stairs.json
 17ea33942c46de80ed859d7dabab0ab2ef738315 data\minecraft\tags\item\non_flammable_wood.json
 63904b5041a5b19405d3e2c7de0225efdf634a04 data\minecraft\tags\item\wooden_trapdoors.json
-5ba52c93057ab6a5048f050c3a8158e1ecb350a4 data\minecraft\tags\item\stone_tool_materials.json
 5ba52c93057ab6a5048f050c3a8158e1ecb350a4 data\minecraft\tags\item\stone_crafting_materials.json
+5ba52c93057ab6a5048f050c3a8158e1ecb350a4 data\minecraft\tags\item\stone_tool_materials.json
 b888cbc9f4c7447220641ebe238ede0700bcd3cd data\minecraft\tags\item\wooden_doors.json
 9af9cf8cda170efa8a29cf78c98d948a89373cef data\minecraft\tags\item\wooden_slabs.json
 8c64bc5d82994cb5cd83b6f33ede179930bb3169 data\minecraft\tags\item\walls.json
