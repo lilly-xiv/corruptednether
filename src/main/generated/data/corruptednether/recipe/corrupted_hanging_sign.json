@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "tag": "c:chains"
+    },
+    "T": {
+      "item": "corruptednether:corrupted_planks"
+    }
+  },
+  "pattern": [
+    "C C",
+    "TTT",
+    "TTT"
+  ],
+  "result": {
+    "count": 6,
+    "id": "corruptednether:corrupted_hanging_sign"
+  }
+}

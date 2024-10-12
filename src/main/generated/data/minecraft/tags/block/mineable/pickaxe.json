@@ -1,0 +1,21 @@
+{
+  "values": [
+    "corruptednether:corrupted_nylium",
+    "corruptednether:corrupted_lantern",
+    "corruptednether:fuchsite",
+    "corruptednether:fuchsite_slab",
+    "corruptednether:fuchsite_wall",
+    "corruptednether:fuchsite_stairs",
+    "corruptednether:polished_fuchsite",
+    "corruptednether:polished_fuchsite_slab",
+    "corruptednether:polished_fuchsite_stairs",
+    "corruptednether:polished_fuchsite_wall",
+    "corruptednether:chiseled_polished_fuchsite",
+    "corruptednether:polished_fuchsite_bricks",
+    "corruptednether:polished_fuchsite_brick_slab",
+    "corruptednether:polished_fuchsite_brick_stairs",
+    "corruptednether:polished_fuchsite_brick_wall",
+    "corruptednether:polished_fuchsite_pressure_plate",
+    "corruptednether:polished_fuchsite_button"
+  ]
+}

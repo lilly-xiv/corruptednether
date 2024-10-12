@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "S": {
+      "tag": "c:rods/wooden"
+    },
+    "T": {
+      "item": "corruptednether:corrupted_planks"
+    }
+  },
+  "pattern": [
+    "STT",
+    "STT"
+  ],
+  "result": {
+    "count": 1,
+    "id": "corruptednether:corrupted_fence_gate"
+  }
+}

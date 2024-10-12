@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "corruptednether:corrupted_stem"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "id": "corruptednether:corrupted_planks"
+  }
+}

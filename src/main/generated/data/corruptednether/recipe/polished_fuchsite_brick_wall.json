@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "F": {
+      "item": "corruptednether:polished_fuchsite_bricks"
+    }
+  },
+  "pattern": [
+    "FFF",
+    "FFF"
+  ],
+  "result": {
+    "count": 6,
+    "id": "corruptednether:polished_fuchsite_brick_wall"
+  }
+}

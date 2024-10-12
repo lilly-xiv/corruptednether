@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "F": {
+      "item": "corruptednether:fuchsite"
+    }
+  },
+  "pattern": [
+    "FF",
+    "FF"
+  ],
+  "result": {
+    "count": 4,
+    "id": "corruptednether:polished_fuchsite"
+  }
+}

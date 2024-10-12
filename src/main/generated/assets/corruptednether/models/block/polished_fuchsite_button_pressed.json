@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/button_pressed",
+  "textures": {
+    "texture": "corruptednether:block/polished_fuchsite"
+  }
+}

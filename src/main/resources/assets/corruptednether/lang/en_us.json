@@ -1,0 +1,49 @@
+{
+  "block.corruptednether.corrupted_stem": "Corrupted Stem",
+  "block.corruptednether.corrupted_hyphae": "Corrupted Hyphae",
+  "block.corruptednether.stripped_corrupted_stem": "Stripped Corrupted Stem",
+  "block.corruptednether.stripped_corrupted_hyphae": "Stripped Corrupted Hyphae",
+  "block.corruptednether.corrupted_planks": "Corrupted Planks",
+  "block.corruptednether.corrupted_slab": "Corrupted Slab",
+  "block.corruptednether.corrupted_fence": "Corrupted Fence",
+  "block.corruptednether.corrupted_fence_gate": "Corrupted Fence Gate",
+  "block.corruptednether.corrupted_door": "Corrupted Door",
+  "block.corruptednether.corrupted_trapdoor": "Corrupted Trapdoor",
+  "block.corruptednether.corrupted_pressure_plate": "Corrupted Pressure Plate",
+  "block.corruptednether.corrupted_button": "Corrupted Button",
+  "block.corruptednether.corrupted_sign": "Corrupted Sign",
+  "block.corruptednether.corrupted_hanging_sign": "Corrupted Hanging Sign",
+  "item.corruptednether.corrupted_boat": "Corrupted Boat",
+  "item.corruptednether.corrupted_chest_boat": "Corrupted Boat with Chest",
+  "block.corruptednether.corrupted_stairs": "Corrupted Stairs",
+
+  "block.corruptednether.curselight": "Curselight",
+  "block.corruptednether.corrupted_nylium": "Corrupted Nylium",
+  "block.corruptednether.corrupted_wart_block": "Corrupted Wart Block",
+  "block.corruptednether.corrupted_fungus": "Corrupted Fungus",
+  "block.corruptednether.corrupted_roots": "Corrupted Roots",
+  "block.corruptednether.corrupted_vines": "Corrupted Vines",
+
+  "block.corruptednether.corrupted_torch": "Corrupted Torch",
+  "block.corruptednether.corrupted_lantern": "Corrupted Lantern",
+  "block.corruptednether.corrupted_campfire": "Corrupted Campfire",
+
+  "block.corruptednether.fuchsite": "Fuchsite",
+  "block.corruptednether.fuchsite_stairs": "Fuchsite Stairs",
+  "block.corruptednether.fuchsite_wall": "Fuchsite Wall",
+  "block.corruptednether.fuchsite_slab": "Fuchsite Slab",
+
+  "block.corruptednether.polished_fuchsite": "Polished Fuchsite",
+  "block.corruptednether.polished_fuchsite_stairs": "Polished Fuchsite Stairs",
+  "block.corruptednether.polished_fuchsite_wall": "Polished Fuchsite Wall",
+  "block.corruptednether.polished_fuchsite_slab": "Polished Fuchsite Slab",
+  "block.corruptednether.polished_fuchsite_button": "Polished Fuchsite Button",
+  "block.corruptednether.polished_fuchsite_pressure_plate": "Polished Fuchsite Pressure Plate",
+
+  "block.corruptednether.polished_fuchsite_bricks": "Polished Fuchsite Bricks",
+  "block.corruptednether.polished_fuchsite_brick_stairs": "Polished Fuchsite Brick Stairs",
+  "block.corruptednether.polished_fuchsite_brick_wall": "Polished Fuchsite Brick Wall",
+  "block.corruptednether.polished_fuchsite_brick_slab": "Polished Fuchsite Brick Slab",
+
+  "block.corruptednether.chiseled_polished_fuchsite": "Chiseled Polished Fuchsite"
+}

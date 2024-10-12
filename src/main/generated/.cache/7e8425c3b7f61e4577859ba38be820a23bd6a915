@@ -1,0 +1,24 @@
+// 1.21	2024-10-12T18:10:48.5373996	CorruptedNether/Tags for minecraft:block
+e7ade70b8238706f2e7a35ecd8e8caf10a3d587c data\minecraft\tags\block\slabs.json
+b888cbc9f4c7447220641ebe238ede0700bcd3cd data\minecraft\tags\block\doors.json
+8e99a61495a6c972cb963aa825d6c06cf70ee95a data\minecraft\tags\block\campfires.json
+63904b5041a5b19405d3e2c7de0225efdf634a04 data\minecraft\tags\block\wooden_trapdoors.json
+24213f2f0bd880d1cb32e72110ba21a20dfbd9a8 data\minecraft\tags\block\stairs.json
+cf2e68ee3dbed2bc643383a39ebf3eaf97e1275a data\minecraft\tags\block\buttons.json
+5faae8ad643657be189b90cc29d4e731c377d6c1 data\minecraft\tags\block\wooden_fences.json
+b7fcc7e4527b2b645ec82910cc4c8de85000908a data\minecraft\tags\block\nylium.json
+5ba52c93057ab6a5048f050c3a8158e1ecb350a4 data\minecraft\tags\block\base_stone_nether.json
+9af9cf8cda170efa8a29cf78c98d948a89373cef data\minecraft\tags\block\wooden_slabs.json
+b888cbc9f4c7447220641ebe238ede0700bcd3cd data\minecraft\tags\block\wooden_doors.json
+b09941e052fb2ad1c2a32ff8cb423cb25394d38b data\minecraft\tags\block\wooden_pressure_plates.json
+b7fcc7e4527b2b645ec82910cc4c8de85000908a data\minecraft\tags\block\mushroom_grow_block.json
+e0db3a2df94e0fd7ef736bc8575fed66c77f2ef7 data\minecraft\tags\block\climbable.json
+f61409a3be93c8fe9228f120ce2f96476c4566d9 data\minecraft\tags\block\logs.json
+a509e9ee1e3889e4052b0159c939a7492b098c41 data\c\tags\block\corrupted_fire_blocks.json
+8c64bc5d82994cb5cd83b6f33ede179930bb3169 data\minecraft\tags\block\walls.json
+f5c9ad8ab01dfb207f189d4c7d6e4700304454a9 data\minecraft\tags\block\wooden_stairs.json
+6c0b2b1fb1fcd5ad3172322ccf058fb6b9bbdee4 data\minecraft\tags\block\mineable\pickaxe.json
+d6861029fa46e218ec9233f041ecf0be1560ca45 data\minecraft\tags\block\wooden_buttons.json
+63904b5041a5b19405d3e2c7de0225efdf634a04 data\minecraft\tags\block\trapdoors.json
+14903d55a3d235c8c05c675a75ad4eedbc4c857c data\minecraft\tags\block\mineable\hoe.json
+bb94f3735cfe49495cf7860a7ee52b06f8e5c762 data\minecraft\tags\block\mineable\axe.json

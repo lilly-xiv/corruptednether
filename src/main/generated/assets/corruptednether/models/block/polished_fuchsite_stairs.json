@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "corruptednether:block/polished_fuchsite",
+    "side": "corruptednether:block/polished_fuchsite",
+    "top": "corruptednether:block/polished_fuchsite"
+  }
+}

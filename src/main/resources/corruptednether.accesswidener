@@ -1,0 +1,10 @@
+accessWidener v2 named
+
+accessible method net/minecraft/block/NyliumBlock generate (Lnet/minecraft/registry/Registry;Lnet/minecraft/registry/RegistryKey;Lnet/minecraft/server/world/ServerWorld;Lnet/minecraft/world/gen/chunk/ChunkGenerator;Lnet/minecraft/util/math/random/Random;Lnet/minecraft/util/math/BlockPos;)V
+accessible method net/minecraft/data/client/BlockStateModelGenerator registerFire ()V
+accessible method net/minecraft/client/particle/Particle setBoundingBoxSpacing (FF)V
+accessible field net/minecraft/client/particle/WaterSuspendParticle$WarpedSporeFactory spriteProvider Lnet/minecraft/client/particle/SpriteProvider;
+accessible field net/minecraft/item/AxeItem STRIPPED_BLOCKS Ljava/util/Map;
+mutable field net/minecraft/item/AxeItem STRIPPED_BLOCKS Ljava/util/Map;
+accessible field net/minecraft/item/ShovelItem PATH_STATES Ljava/util/Map;
+mutable field net/minecraft/item/ShovelItem PATH_STATES Ljava/util/Map;

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "corruptednether:polished_fuchsite"
+  },
+  "result": {
+    "count": 1,
+    "id": "corruptednether:polished_fuchsite_brick_stairs"
+  }
+}

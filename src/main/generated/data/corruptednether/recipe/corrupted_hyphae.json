@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "T": {
+      "item": "corruptednether:corrupted_stem"
+    }
+  },
+  "pattern": [
+    "TT",
+    "TT"
+  ],
+  "result": {
+    "count": 3,
+    "id": "corruptednether:corrupted_hyphae"
+  }
+}

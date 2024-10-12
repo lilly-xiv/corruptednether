@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:huge_red_mushroom",
+  "config": {
+    "cap_provider": {
+      "type": "minecraft:simple_state_provider",
+      "state": {
+        "Name": "minecraft:air"
+      }
+    },
+    "foliage_radius": 0,
+    "stem_provider": {
+      "type": "minecraft:simple_state_provider",
+      "state": {
+        "Name": "corruptednether:corrupted_vines",
+        "Properties": {
+          "age": "0"
+        }
+      }
+    }
+  }
+}

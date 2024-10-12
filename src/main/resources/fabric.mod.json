@@ -1,0 +1,45 @@
+{
+	"schemaVersion": 1,
+	"id": "corruptednether",
+	"version": "${version}",
+	"name": "CorruptedNether",
+	"description": "This is an example description! Tell everyone what your mod is about!",
+	"authors": [
+		"Me!"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/corruptednether/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"lordruby.corruptednether.CorruptedNether"
+		],
+		"client": [
+			"lordruby.corruptednether.CorruptedNetherClient"
+		],
+		"fabric-datagen": [
+			"lordruby.corruptednether.provider.CorruptedNetherDataGenerator"
+		]
+	},
+	"mixins": [
+		"corruptednether.mixins.json",
+		{
+			"config": "corruptednether.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.16.5",
+		"minecraft": "~1.21",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"accessWidener" : "corruptednether.accesswidener",
+	"suggests": {
+		"another-mod": "*"
+	}
+}

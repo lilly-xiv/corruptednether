@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:flower",
+  "config": {
+    "feature": "corruptednether:corrupted_root",
+    "tries": 200,
+    "xz_spread": 12,
+    "y_spread": 12
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "corruptednether:block/polished_fuchsite_brick_slab"
+    },
+    "type=double": {
+      "model": "corruptednether:block/polished_fuchsite_bricks"
+    },
+    "type=top": {
+      "model": "corruptednether:block/polished_fuchsite_brick_slab_top"
+    }
+  }
+}

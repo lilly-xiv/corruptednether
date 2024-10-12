@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_stripped_corrupted_stem": {
+      "conditions": {
+        "items": [
+          {
+            "items": "corruptednether:stripped_corrupted_stem"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "corruptednether:stripped_corrupted_hyphae"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_stripped_corrupted_stem"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "corruptednether:stripped_corrupted_hyphae"
+    ]
+  }
+}

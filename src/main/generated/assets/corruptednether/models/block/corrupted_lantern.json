@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_lantern",
+  "textures": {
+    "lantern": "corruptednether:block/corrupted_lantern"
+  }
+}

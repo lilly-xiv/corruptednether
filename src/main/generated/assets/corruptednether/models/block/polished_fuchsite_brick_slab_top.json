@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "corruptednether:block/polished_fuchsite_bricks",
+    "side": "corruptednether:block/polished_fuchsite_bricks",
+    "top": "corruptednether:block/polished_fuchsite_bricks"
+  }
+}

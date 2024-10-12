@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:huge_fungus",
+  "config": {
+    "decor_state": {
+      "Name": "corruptednether:curselight"
+    },
+    "hat_state": {
+      "Name": "corruptednether:corrupted_wart_block"
+    },
+    "planted": true,
+    "replaceable_blocks": {
+      "type": "minecraft:matching_blocks",
+      "blocks": [
+        "corruptednether:corrupted_fungus",
+        "corruptednether:corrupted_vines"
+      ]
+    },
+    "stem_state": {
+      "Name": "corruptednether:corrupted_stem",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "valid_base_block": {
+      "Name": "corruptednether:corrupted_nylium"
+    }
+  }
+}

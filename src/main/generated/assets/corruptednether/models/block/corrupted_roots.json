@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "corruptednether:block/corrupted_roots"
+  }
+}

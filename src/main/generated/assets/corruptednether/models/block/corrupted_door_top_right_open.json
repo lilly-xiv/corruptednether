@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_top_right_open",
+  "textures": {
+    "bottom": "corruptednether:block/corrupted_door_bottom",
+    "top": "corruptednether:block/corrupted_door_top"
+  }
+}

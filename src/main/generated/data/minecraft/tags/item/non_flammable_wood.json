@@ -1,0 +1,16 @@
+{
+  "values": [
+    "corruptednether:corrupted_slab",
+    "corruptednether:corrupted_button",
+    "corruptednether:corrupted_door",
+    "corruptednether:corrupted_fence",
+    "corruptednether:corrupted_fence_gate",
+    "corruptednether:corrupted_pressure_plate",
+    "corruptednether:corrupted_trapdoor",
+    "corruptednether:corrupted_stem",
+    "corruptednether:corrupted_hyphae",
+    "corruptednether:stripped_corrupted_stem",
+    "corruptednether:stripped_corrupted_hyphae",
+    "corruptednether:corrupted_stairs"
+  ]
+}

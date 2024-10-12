@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "T": {
+      "item": "corruptednether:corrupted_planks"
+    }
+  },
+  "pattern": [
+    "T T",
+    "TTT"
+  ],
+  "result": {
+    "count": 1,
+    "id": "corruptednether:corrupted_boat"
+  }
+}

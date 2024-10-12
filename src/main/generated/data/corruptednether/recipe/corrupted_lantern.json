@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "N": {
+      "item": "minecraft:iron_nugget"
+    },
+    "W": {
+      "item": "corruptednether:corrupted_torch"
+    }
+  },
+  "pattern": [
+    "NNN",
+    "NWN",
+    "NNN"
+  ],
+  "result": {
+    "count": 1,
+    "id": "corruptednether:corrupted_lantern"
+  }
+}

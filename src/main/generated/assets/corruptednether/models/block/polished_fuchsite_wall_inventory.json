@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/wall_inventory",
+  "textures": {
+    "wall": "corruptednether:block/polished_fuchsite"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "values": [
+    "corruptednether:corrupted_button",
+    "corruptednether:corrupted_fence",
+    "corruptednether:corrupted_fence_gate",
+    "corruptednether:corrupted_hanging_sign",
+    "corruptednether:corrupted_planks",
+    "corruptednether:corrupted_pressure_plate",
+    "corruptednether:corrupted_sign",
+    "corruptednether:corrupted_slab",
+    "corruptednether:corrupted_stem",
+    "corruptednether:corrupted_trapdoor",
+    "corruptednether:corrupted_wall_hanging_sign",
+    "corruptednether:corrupted_wall_sign",
+    "corruptednether:stripped_corrupted_hyphae",
+    "corruptednether:stripped_corrupted_stem",
+    "corruptednether:corrupted_hyphae",
+    "corruptednether:corrupted_campfire"
+  ]
+}

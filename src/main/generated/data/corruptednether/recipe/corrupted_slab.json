@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "T": {
+      "item": "corruptednether:corrupted_planks"
+    }
+  },
+  "pattern": [
+    "TTT"
+  ],
+  "result": {
+    "count": 6,
+    "id": "corruptednether:corrupted_slab"
+  }
+}

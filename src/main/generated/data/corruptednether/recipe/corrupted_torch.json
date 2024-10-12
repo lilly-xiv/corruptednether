@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "C": {
+      "tag": "minecraft:coals"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "W": {
+      "item": "corruptednether:corrupted_wart_block"
+    }
+  },
+  "pattern": [
+    "C",
+    "S",
+    "W"
+  ],
+  "result": {
+    "count": 4,
+    "id": "corruptednether:corrupted_torch"
+  }
+}
