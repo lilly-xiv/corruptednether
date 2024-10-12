@@ -1,6 +1,5 @@
 package lordruby.corruptednether;
 
-import com.terraformersmc.modmenu.util.mod.Mod;
 import lordruby.corruptednether.customfeatures.VisciousVinesFeature;
 import lordruby.corruptednether.init.*;
 import net.fabricmc.api.ModInitializer;

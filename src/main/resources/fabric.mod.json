@@ -3,13 +3,13 @@
 	"id": "corruptednether",
 	"version": "${version}",
 	"name": "CorruptedNether",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Adds a Corrupted Forest biome to The Nether",
 	"authors": [
-		"Me!"
+		"LordRuby"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://github.com/lord-ruby/corruptednether/issues",
+		"sources": "https://github.com/lord-ruby/corruptednether/"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/corruptednether/icon.png",
