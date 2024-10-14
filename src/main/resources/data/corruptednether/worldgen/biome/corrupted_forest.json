@@ -39,20 +39,20 @@
     "monster": [
       {
         "type": "minecraft:zombified_piglin",
-        "weight": 4,
-        "minCount": 1,
+        "weight": 1,
+        "minCount": 2,
         "maxCount": 4
       },
       {
-        "type": "minecraft:zoglin",
+        "type": "minecraft:enderman",
         "weight": 1,
-        "minCount": 0,
-        "maxCount": 2
+        "minCount": 2,
+        "maxCount": 4
       },
       {
-        "type": "minecraft:enderman",
-        "weight": 3,
-        "minCount": 1,
+        "type": "corruptednether:corrupted_skeleton",
+        "weight": 9,
+        "minCount": 3,
         "maxCount": 4
       }
     ],

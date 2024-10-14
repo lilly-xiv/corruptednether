@@ -45,5 +45,8 @@
   "block.corruptednether.polished_fuchsite_brick_wall": "Polished Fuchsite Brick Wall",
   "block.corruptednether.polished_fuchsite_brick_slab": "Polished Fuchsite Brick Slab",
 
-  "block.corruptednether.chiseled_polished_fuchsite": "Chiseled Polished Fuchsite"
+  "block.corruptednether.chiseled_polished_fuchsite": "Chiseled Polished Fuchsite",
+
+  "entity.corruptednether.corrupted_skeleton": "Corrupted Skeleton",
+  "item.corruptednether.corrupted_skeleton_spawn_egg": "Corrupted Skeleton Spawn Egg"
 }

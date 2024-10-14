@@ -1,6 +1,7 @@
 package lordruby.corruptednether.init;
 
 import lordruby.corruptednether.CorruptedNether;
+import lordruby.corruptednether.entities.CorruptedSkeleton;
 import net.fabricmc.fabric.api.item.v1.FabricItem;
 import net.fabricmc.fabric.api.itemgroup.v1.ItemGroupEvents;
 import net.minecraft.block.AbstractBlock;
@@ -15,6 +16,8 @@ import net.minecraft.util.Identifier;
 import com.terraformersmc.terraform.boat.api.item.TerraformBoatItemHelper;
 import net.minecraft.util.math.Direction;
 
+import javax.swing.text.html.parser.Entity;
+import java.awt.*;
 import java.util.function.BiFunction;
 
 public class ItemInit {
@@ -38,15 +41,23 @@ public class ItemInit {
     );
     public static final Item CORRUPTED_CAMPFIRE = Items.register(BlockInit.CORRUPTED_CAMPFIRE, settings -> settings.component(DataComponentTypes.CONTAINER, ContainerComponent.DEFAULT));
     //
+
+    public static final SpawnEggItem CORRUPTED_SKELETON_SPAWN_EGG = register("corrupted_skeleton_spawn_egg",
+            new SpawnEggItem(EntityInit.CORRUPTED_SKELETON, 16382457, 16382457, new Item.Settings()));
     public static <T extends Item> T register(String name, T item) {
         return Registry.register(Registries.ITEM, Identifier.of(CorruptedNether.MOD_ID, name), item);
     }
+
     public static void load() {
 
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.FUNCTIONAL).register(content -> {
             content.add(CORRUPTED_TORCH);
             content.add(CORRUPTED_LANTERN);
             content.add(CORRUPTED_CAMPFIRE);
+        });
+
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.SPAWN_EGGS).register(content -> {
+            content.add(CORRUPTED_SKELETON_SPAWN_EGG);
         });
     }
 }

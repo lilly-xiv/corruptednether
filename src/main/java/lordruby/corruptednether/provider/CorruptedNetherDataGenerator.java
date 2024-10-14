@@ -18,6 +18,7 @@ public class CorruptedNetherDataGenerator implements DataGeneratorEntrypoint {
 		pack.addProvider(CorruptedNetherTagProvider::new);
 		pack.addProvider(CorruptedNetherWorldGenerator::new);
 		pack.addProvider(CorruptedNetherItemTagProvider::new);
+		pack.addProvider(CorruptedNetherEntityLootTableProvider::new);
 	}
 
 	@Override

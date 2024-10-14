@@ -20,6 +20,7 @@ import java.util.List;
 
 import static lordruby.corruptednether.init.PlacedFeatureInit.Modifiers.modifiersWithCount;
 
+@SuppressWarnings("deprecation")
 public class PlacedFeatureInit {
     public static final RegistryKey<PlacedFeature> PLACED_CORRUPTED_VEGETATION = registerKey("corrupted_vegetation");
     public static final RegistryKey<PlacedFeature> PLACED_CORRUPTED_ROOT = registerKey("corrupted_root");

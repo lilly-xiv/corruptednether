@@ -21,6 +21,7 @@ class CorruptedNetherModelProvider extends FabricModelProvider {
 
     @Override
     public void generateBlockStateModels(BlockStateModelGenerator blockStateModelGenerator) {
+
         blockStateModelGenerator.registerLog(BlockInit.CORRUPTED_STEM).stem(BlockInit.CORRUPTED_STEM).wood(BlockInit.CORRUPTED_HYPHAE);
         blockStateModelGenerator.registerLog(BlockInit.STRIPPED_CORRUPTED_STEM).stem(BlockInit.STRIPPED_CORRUPTED_STEM).wood(BlockInit.STRIPPED_CORRUPTED_HYPHAE);
         var CORRUPTEDFamily = new BlockFamily.Builder(BlockInit.CORRUPTED_PLANKS)
@@ -103,6 +104,7 @@ class CorruptedNetherModelProvider extends FabricModelProvider {
     public void generateItemModels(ItemModelGenerator itemModelGenerator) {
         itemModelGenerator.register(ItemInit.CORRUPTED_BOAT, Models.GENERATED);
         itemModelGenerator.register(ItemInit.CORRUPTED_CHEST_BOAT, Models.GENERATED);
+        itemModelGenerator.register(ItemInit.CORRUPTED_SKELETON_SPAWN_EGG, Models.GENERATED);
         //itemModelGenerator.register(ItemInit.CORRUPTED_LANTERN, Models.GENERATED);
     }
 }
